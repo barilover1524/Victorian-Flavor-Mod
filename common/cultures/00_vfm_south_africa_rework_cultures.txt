@@ -4,8 +4,10 @@
 	traits = { beneluxian_culture_group african_settler european_heritage }
 	male_common_first_names={
 		Abraham
+		Adam
 		Adrianus
 		Andries
+		Barend
 		Charl
 		Christiaan
 		Cornelis
@@ -25,8 +27,10 @@
 		Koos
 		Louis
 		Martinus
+		Nicolaas
 		Paul
 		Petrus
+		Pienaar
 		Piet
 		Pieter
 		Racheltjie 
@@ -66,7 +70,9 @@
 	}	
 	noble_last_names = {
 		Afrikaner
+		Arnot
 		Koorts
+		Le_Fleur
 		Witbooi
 		Waterboer
 	}
